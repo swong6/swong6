@@ -27,7 +27,7 @@ Built classification models to predict nutritional deficiency diseases using pat
 ---
 
 ### 2. NYC Restaurant Inspection Risk Analysis
-**Tools:** Tableau, Data Cleaning, Exploratory Analysis  
+**Tools:** Python, Tableau, Data Cleaning, Exploratory Analysis  
 Analyzed NYC restaurant inspection data to identify which violation categories, cuisines, and time periods are associated with worse inspection outcomes. Key findings showed sanitation, pests, temperature, and repeat violation patterns as major risk drivers.
 
 🔗 [View Project](https://github.com/swong6/nyc-restaurant-inspection-risk-analysis)
@@ -35,7 +35,7 @@ Analyzed NYC restaurant inspection data to identify which violation categories, 
 ---
 
 ### 3. DubsTech Datathon – Healthcare Access Analysis
-**Tools:** Python, Tableau, Clustering  
+**Tools:** Python, Tableau, Clustering, Segmentation  
 Analyzed 23,000+ healthcare survey records to identify demographic groups facing barriers to care using exploratory analysis, segmentation, and clustering.
 
 🔗 [View Project](https://github.com/daiyq0620/Team-LCSM)
@@ -45,7 +45,7 @@ Analyzed 23,000+ healthcare survey records to identify demographic groups facing
 🛠 **TECH STACK**
 
 **Languages & Querying**  
-`SQL` `T-SQL` `MySQL` `PostgreSQL` `Python`
+`SQL` `T-SQL` `MySQL` `PostgreSQL` `Python` `SQL Server`
 
 **Analytics & Modeling**  
 `Pandas` `NumPy` `Scikit-learn` `Regression` `Clustering` `Predictive Modeling`
@@ -57,6 +57,6 @@ Analyzed 23,000+ healthcare survey records to identify demographic groups facing
 
 🌱 **CURRENTLY WORKING ON**
 
-- Capstone Project: Tableau / Salesforce User Onboarding Analysis
-- SQL optimization and reporting workflows (SQL Server)  
-- Current Semester's Courses: Pricing Analytics, Finance and Accounting  
+- **Capstone Project:** Tableau / Salesforce User Onboarding Analysis
+- **SQL Server:** SQL optimization and reporting workflows
+- **Current Semester's Courses**: Pricing Analytics, Finance and Accounting  
