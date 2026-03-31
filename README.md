@@ -6,7 +6,7 @@ I’m interested in turning messy data into clear business insights through **SQ
 
 ---
 
-# 📌 ABOUT ME
+📌 ABOUT ME
 
 - 🎓 Pursuing an **M.S. in Business Analytics** @ UW
 - 💼 Currently working as a **Business Intelligence Reporting Analyst** @ UW 
