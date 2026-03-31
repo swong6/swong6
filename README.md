@@ -1,4 +1,4 @@
-# Hi! Welcome to my GitHub ✨
+**Hi! Welcome to my GitHub** ✨
 
 I’m a Business Analytics graduate student at the **University of Washington**, currently based in **Seattle, WA**.
 
