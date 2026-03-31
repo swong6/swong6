@@ -6,7 +6,7 @@ I’m interested in turning messy data into clear business insights through **SQ
 
 ---
 
-## 📌 About Me
+# 📌 ABOUT ME
 
 - 🎓 Pursuing an **M.S. in Business Analytics** @ UW
 - 💼 Currently working as a **Business Intelligence Reporting Analyst** @ UW 
@@ -16,7 +16,7 @@ I’m interested in turning messy data into clear business insights through **SQ
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 ### 1. Predicting Vitamin Deficiency Diseases
 **Tools:** Python, Pandas, Seaborn, Scikit-learn, Matplotlib  
@@ -26,7 +26,7 @@ Built classification models to predict nutritional deficiency diseases using pat
 
 ---
 
-### 3. NYC Restaurant Inspection Risk Analysis
+### 2. NYC Restaurant Inspection Risk Analysis
 **Tools:** Tableau, Data Cleaning, Exploratory Analysis  
 Analyzed NYC restaurant inspection data to identify which violation categories, cuisines, and time periods are associated with worse inspection outcomes. Key findings showed sanitation, pests, temperature, and repeat violation patterns as major risk drivers.
 
@@ -34,7 +34,7 @@ Analyzed NYC restaurant inspection data to identify which violation categories, 
 
 ---
 
-### 4. DubsTech Datathon – Healthcare Access Analysis
+### 3. DubsTech Datathon – Healthcare Access Analysis
 **Tools:** Python, Tableau, Clustering  
 Analyzed 23,000+ healthcare survey records to identify demographic groups facing barriers to care using exploratory analysis, segmentation, and clustering.
 
@@ -42,7 +42,7 @@ Analyzed 23,000+ healthcare survey records to identify demographic groups facing
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 TECH STACK
 
 **Languages & Querying**  
 `SQL` `T-SQL` `MySQL` `PostgreSQL` `Python`
@@ -55,7 +55,7 @@ Analyzed 23,000+ healthcare survey records to identify demographic groups facing
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 CURRENTLY WORKING ON
 
 - Capstone Project: Tableau / Salesforce User Onboarding Analysis
 - SQL optimization and reporting workflows (SQL Server)  
@@ -63,7 +63,7 @@ Analyzed 23,000+ healthcare survey records to identify demographic groups facing
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 LET'S CONNECT
 
 - [LinkedIn](https://www.linkedin.com/in/sharmainewong/)
 - [Portfolio](YOUR_PORTFOLIO_LINK)
