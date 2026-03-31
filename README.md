@@ -16,7 +16,7 @@ I’m interested in turning messy data into clear business insights through **SQ
 
 ---
 
-🚀 **FEATURED PROJECTS**
+📝 **FEATURED PROJECTS**
 
 ### 1. Predicting Vitamin Deficiency Diseases
 **Tools:** Python, Pandas, Seaborn, Scikit-learn, Matplotlib  
