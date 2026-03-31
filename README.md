@@ -30,7 +30,7 @@ Built classification models to predict nutritional deficiency diseases using pat
 **Tools:** Tableau, Data Cleaning, Exploratory Analysis  
 Analyzed NYC restaurant inspection data to identify which violation categories, cuisines, and time periods are associated with worse inspection outcomes. Key findings showed sanitation, pests, temperature, and repeat violation patterns as major risk drivers.
 
-🔗 [View Project]([https://github.com/YOURUSERNAME/NYC-Restaurant-Inspection-Analysis](https://github.com/swong6/nyc-restaurant-inspection-risk-analysis))
+🔗 [View Project](https://github.com/YOURUSERNAME/NYC-Restaurant-Inspection-Analysis](https://github.com/swong6/nyc-restaurant-inspection-risk-analysis)
 
 ---
 
