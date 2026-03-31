@@ -16,7 +16,7 @@ I’m interested in turning messy data into clear business insights through **SQ
 
 ---
 
-# 🚀 FEATURED PROJECTS
+🚀 **FEATURED PROJECTS**
 
 ### 1. Predicting Vitamin Deficiency Diseases
 **Tools:** Python, Pandas, Seaborn, Scikit-learn, Matplotlib  
@@ -42,7 +42,7 @@ Analyzed 23,000+ healthcare survey records to identify demographic groups facing
 
 ---
 
-## 🛠 TECH STACK
+🛠 **TECH STACK**
 
 **Languages & Querying**  
 `SQL` `T-SQL` `MySQL` `PostgreSQL` `Python`
@@ -55,7 +55,7 @@ Analyzed 23,000+ healthcare survey records to identify demographic groups facing
 
 ---
 
-## 🌱 CURRENTLY WORKING ON
+🌱 **CURRENTLY WORKING ON**
 
 - Capstone Project: Tableau / Salesforce User Onboarding Analysis
 - SQL optimization and reporting workflows (SQL Server)  
@@ -63,7 +63,7 @@ Analyzed 23,000+ healthcare survey records to identify demographic groups facing
 
 ---
 
-## 🤝 LET'S CONNECT
+🤝 **LET'S CONNECT**
 
 - [LinkedIn](https://www.linkedin.com/in/sharmainewong/)
 - [Portfolio](YOUR_PORTFOLIO_LINK)
