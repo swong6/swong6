@@ -1,4 +1,4 @@
-# Hi! Welcome to my GitHub 🙋🏻‍♀️
+# Hi! Welcome to my GitHub ✨
 
 I’m a Business Analytics graduate student at the **University of Washington**, currently based in **Seattle, WA**.
 
@@ -19,10 +19,10 @@ I’m interested in turning messy data into clear business insights through **SQ
 ## 🚀 Featured Projects
 
 ### 1. Predicting Vitamin Deficiency Diseases
-**Tools:** Python, Pandas, Scikit-learn, Matplotlib  
+**Tools:** Python, Pandas, Seaborn, Scikit-learn, Matplotlib  
 Built classification models to predict nutritional deficiency diseases using patient data. Included data cleaning, EDA, and model evaluation using Logistic Regression and Decision Trees.
 
-🔗 [View Project](https://github.com/YOURUSERNAME/predicting-vitamin-deficiency-diseases)
+🔗 [View Project](https://github.com/swong6/predicting-vitamin-deficiency-diseases)
 
 ---
 
