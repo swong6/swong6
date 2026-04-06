@@ -9,7 +9,7 @@ I’m interested in turning messy data into clear business insights through **SQ
 📌 **ABOUT ME**
 
 - 🎓 Pursuing an **M.S. in Business Analytics** @ UW
-- 💼 Currently working as a **Business Intelligence Reporting Analyst** @ UW 
+- 💼 Currently working as a **Business Intelligence Analyst** @ UW 
 - 💻 Previously worked in **Customer Analytics** at Aritzia
 - 📊 Interested in **Business Intelligence, Customer Analytics, and Data Visualization**
 - 🌎 Originally from **Vancouver, Canada**, now based in **Seattle**
