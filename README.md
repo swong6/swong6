@@ -1,6 +1,6 @@
 ## **Hi! Welcome to my GitHub** ✨
 
-I’m a Business Analytics graduate student at the **University of Washington**, currently based in **Seattle, WA**.
+I’m a Business Intelligence Analyst at the **University of Washington**, currently based in **Seattle, WA**.
 
 I’m interested in turning messy data into clear business insights through **SQL, Python, Tableau, and BI reporting**. My background spans **fashion, marketing, and tax**, and along the way I discovered a strong interest in **data storytelling, customer analytics, and decision support**.
 
